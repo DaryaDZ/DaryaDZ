@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaryaDZ&theme=tokyonight&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaryaDZ&theme=dark&show_icons=true)
       <h4>React Developer</h4>  
 
    Languages
